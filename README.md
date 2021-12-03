@@ -1,5 +1,9 @@
-### Hello there 👋
+### [Hello there 👋](https://star-wars-memes.fandom.com/wiki/Hello_there!)
 
+### My Slogans
+* *Think Different, Do Smarter, Work for Joy!! / 創新思維，智慧行動，喜樂工作！ -- [Ted Chien](https://about.me/htchien)*
+
+* *[To boldly go where no man has gone before!!](https://en.wikipedia.org/wiki/Where_no_man_has_gone_before) / [勇敢前往前人未至之境！](https://zh.wikipedia.org/wiki/%E5%89%8D%E4%BA%BA%E6%9C%AA%E8%87%B3%E4%B9%8B%E5%A2%83) -- [Star Trek The Original Series](https://en.wikipedia.org/wiki/Star_Trek)*
 <!--
 **htchien/htchien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
