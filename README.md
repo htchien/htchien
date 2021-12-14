@@ -1,5 +1,7 @@
 ### [Hello there 👋](https://star-wars-memes.fandom.com/wiki/Hello_there!)
 
+![Ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=htchien&count_private=true&show_icon=true)
+
 ### My Slogans
 * *Think Different, Do Smarter, Work for Joy!! / 創新思維，智慧行動，喜樂工作！ -- [Ted Chien](https://about.me/htchien)*
 
